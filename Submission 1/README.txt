@@ -18,4 +18,3 @@ Group Members:
 20101280 Mohammod Tahseen Mansoor
 20101521 Shifath Jahan Prity
 20101587 Maliha Binta Islam
-20341021 Tasin Mohammad
